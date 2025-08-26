@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Balaji Sivakumar  
 
-💻 **Full-Stack Developer | 2+ Years Experience | .NET, Node.js, React, MySQL**  
+💻 **Full-Stack Developer | 3+ Years Experience | Node.js, React, MySQL, .NET**  
 
 I specialize in building scalable **enterprise web applications** and **data-driven systems**. My work combines **robust backends** with **intuitive, responsive frontends** to deliver business impact.  
 
@@ -36,13 +36,6 @@ I specialize in building scalable **enterprise web applications** and **data-dri
 **Other Tools:**  
 REST APIs · Chart.js · Recharts · Git · Excel Automation .  Electron.js  
  
-
----
-
-## 📊 GitHub Stats
-![Balaji's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical)
-
 ---
 
 ## 📫 Connect With Me
