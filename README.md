@@ -7,8 +7,8 @@ I specialize in building scalable **enterprise web applications** and **data-dri
 ---
 
 ## 🚀 About Me
-- 🔹 2+ years as a **Software Developer** with expertise in ** Node.js, React, MySQL, C#/.NET (MVC & Windows Forms)**  
-- 🔹 Built an **Energy Monitoring & Billing System** for a PSU, supporting:
+- 🔹 3+ years as a **Software Developer** with expertise in ** Node.js, React, MySQL, C#/.NET (MVC & Windows Forms)**  
+- 🔹 Built an **Energy Management System** for a PSU, supporting:
   - Dual hierarchy (business & electrical)  
   - Seasonal tariff configuration  
   - Role-based access control (RBAC)  
